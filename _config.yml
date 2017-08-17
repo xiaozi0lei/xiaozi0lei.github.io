@@ -25,7 +25,7 @@ github_username:  xiaozi0lei
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
