@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "北京工作居住证办理一小社保卡"
 date:   2017-05-19 12:27:57 +0800
 categories: life

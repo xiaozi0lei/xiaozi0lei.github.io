@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "公主和驴的寓言故事"
 date:   2017-06-17 16:28:57 +0800
 categories: life

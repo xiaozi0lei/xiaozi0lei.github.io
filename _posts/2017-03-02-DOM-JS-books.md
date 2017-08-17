@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "DOM JS 书籍"
 date:   2017-03-02
 categories: study

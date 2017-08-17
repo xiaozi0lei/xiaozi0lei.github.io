@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "项目锻炼2"
 date:   2017-03-08 16:47:57 +0800
 categories: project

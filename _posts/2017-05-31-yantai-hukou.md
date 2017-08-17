@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "新生儿烟台落户流程2017年"
 date:   2017-05-31 13:21:57 +0800
 categories: life

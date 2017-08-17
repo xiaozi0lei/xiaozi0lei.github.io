@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "win7 安装 Appium"
 date:   2017-02-16
 categories: appium
