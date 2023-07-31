@@ -1,6 +1,11 @@
-Rest-Assured 断言方法总结
+---
+layout: default
+title:  "Rest-Assured 断言方法总结"
+date:   2023-07-31 20:16:50 +0800
+categories: testing
+---
 
-# 断言方法
+**断言方法**
 
 ```java
 // everyItem(): 对断言对象中的 list 或者数组的属性值，进行遍历判断是否都等于 XXX
