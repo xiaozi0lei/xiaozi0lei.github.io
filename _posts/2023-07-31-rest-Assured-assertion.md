@@ -17,3 +17,12 @@ equalTo("XXX");
 
 ```
 
+**初始化配置**
+
+```java
+// 有时候需要把一些请求头或者cookie进行统一处理，因为所有的请求都需要带上这些参数，可以使用 requestSpecification 来进行统一设置
+RestAssured.requestSpecification = new RequestSpecBuilder().build().header("Authorization", "Bearer " + token);
+```
+
+
+
